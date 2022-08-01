@@ -4,4 +4,4 @@
 
 ## Wiki
 
-* [Home](wiki/home.md)
+* [Home DE](wiki/home-de.md)
